@@ -1,46 +1,73 @@
-# Krish Shah's Software Engineering Projects
+# Krish Shah – Software Engineering Projects
 
-## 👋 About Me
+## About Me
 
-Hi! I'm Krish Shah, a Junior at Florida Gulf Coast University (FGCU), majoring in **Software Engineering** with a minor in **Mathematics**. This repository contains various projects I've worked on, showcasing my skills and interests in programming, software development, and problem-solving.
-
----
-
-## 🚀 Projects in this Repository
-
-### 1. **Krish's Cafe Order System**  
-   - **🔍 Description**: A simple C console application where users can select items (coffee, tea, or donuts), add them to their cart, and receive a total bill.
-   - **💡 Key Features**:
-     -  Menu with categorized items and prices.
-     -  Real-time order processing and total calculation.
-     -  Input validation to ensure correct choices.
-   - **⚙️ Technologies**: C, Standard I/O functions.
+Hello, I’m **Krish Shah**, a Junior at Florida Gulf Coast University (FGCU), pursuing a **Bachelor’s in Software Engineering** with a minor in **Mathematics**. I enjoy building efficient and meaningful software solutions through hands-on projects that blend creativity and logic. This repository showcases my academic and personal work in programming, research, and development.
 
 ---
 
-### 2. **Maze Runner**  
-   - **🔍 Description**: A C++ program that solves a maze using recursion. The maze is represented by a 2D array, and the program attempts to find the shortest path from the start to the exit.
-   - **💡 Key Features**:
-     -  Recursive backtracking algorithm to find a path through the maze.
-     -  Visual representation of the maze with path tracing using '*' characters.
-     -  Demonstrates problem-solving with recursion.
-   - **⚙️ Technologies**: C++, Object-Oriented Programming, Recursion.
+## Projects
 
----
-## 📝 Reaserch in this Repository
+### 1. GenAI Fund Recommendation Platform (Python, LangChain, Streamlit)
+**Description:**  
+An AI-powered platform that assists financial advisors in generating personalized mutual fund recommendations based on risk profiles. It uses a Retrieval-Augmented Generation (RAG) pipeline combining public financial data, vector stores, and GPT-4.
 
-### 1. **⚡ Lightning Strike Analysis**  
-   - **🔍 Description**: A series of Python scripts to analyze and visualize lightning strike data. The project filters lightning data based on user input (date and time), creates heatmaps for spatial distribution, and generates graphs showing lightning strike frequencies and peak current values.
-   - **💡 Key Features**:
-     -  Visualizes lightning strikes with heatmaps based on location and time.
-     -  Plots hourly distribution of lightning strikes.
-     -  Identifies and maps locations with the highest peak current values.
-   - **⚙️ Technologies**: Python, pandas, folium, matplotlib.
+**Key Features:**
+- Scrapes and preprocesses financial metrics (Sharpe, Sortino, Max Drawdown, etc.)
+- Uses LangChain with FAISS/Azure and OpenAI for natural language fund insights
+- Streamlit interface for risk-based fund exploration and comparisons
+
+**Technologies:**  
+Python, LangChain, OpenAI API, FAISS, Azure, Streamlit, BeautifulSoup, pandas
 
 ---
 
-## 📬 Contact
+### 2. Cafe Order System (C)
+**Description:**  
+A command-line based order processing system that allows users to select menu items such as coffee, tea, or donuts, and view a final bill with totals.
 
-Feel free to reach out if you have any questions or want to collaborate!  
-Email: ksshah1283@eagle.fgcu.edu
+**Key Features:**
+- Menu-driven ordering
+- Real-time cart total updates
+- Input validation for user safety
 
+**Technologies:**  
+C, Standard Library (stdio.h)
+
+---
+
+### 3. Maze Runner (C++)
+**Description:**  
+A program that solves a maze using recursion. It traverses a 2D array representing the maze and prints the path from start to finish.
+
+**Key Features:**
+- Recursive backtracking algorithm
+- Path tracing and visual output
+- Demonstrates logical problem-solving
+
+**Technologies:**  
+C++, Recursion, Object-Oriented Concepts
+
+---
+
+## Research Work
+
+### Lightning Strike Data Analysis (Python)
+**Description:**  
+A Python-based analysis pipeline for visualizing and analyzing real lightning strike data based on time, location, and intensity.
+
+**Key Features:**
+- Heatmaps of lightning intensity by geography
+- Graphs showing frequency and peak current
+- Temporal filtering of lightning activity
+
+**Technologies:**  
+Python, pandas, folium, matplotlib
+
+---
+
+## Contact
+
+Feel free to connect or collaborate:  
+**Email:** ksshah1283@eagle.fgcu.edu  
+**LinkedIn:** [linkedin.com/in/krish-shah](https://linkedin.com/in/krish-shah)
