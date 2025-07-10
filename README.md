@@ -1,73 +1,70 @@
-# Krish Shah – Software Engineering Projects
+# Krish Shah – Software Engineering Portfolio
 
 ## About Me
 
-Hello, I’m **Krish Shah**, a Junior at Florida Gulf Coast University (FGCU), pursuing a **Bachelor’s in Software Engineering** with a minor in **Mathematics**. I enjoy building efficient and meaningful software solutions through hands-on projects that blend creativity and logic. This repository showcases my academic and personal work in programming, research, and development.
+I am Krish Shah, a Junior at Florida Gulf Coast University (FGCU) pursuing a Bachelor's degree in Software Engineering with a minor in Mathematics. I enjoy designing efficient, scalable, and intelligent software systems. This portfolio highlights my academic, research, and independent projects across multiple languages and domains, including artificial intelligence, systems programming, and data analysis.
 
 ---
 
 ## Projects
 
-### 1. GenAI Fund Recommendation Platform (Python, LangChain, Streamlit)
-**Description:**  
-An AI-powered platform that assists financial advisors in generating personalized mutual fund recommendations based on risk profiles. It uses a Retrieval-Augmented Generation (RAG) pipeline combining public financial data, vector stores, and GPT-4.
+### ORION: GenAI Fund Advisor Platform  
+**Technologies:** Python, LangChain, OpenAI (Azure), Streamlit, FAISS, BeautifulSoup, dotenv, pandas, FPDF
+
+An intelligent financial advisory application powered by a Retrieval-Augmented Generation (RAG) architecture. ORION delivers real-time insights and comparisons on mutual funds using natural language queries, vector databases, and prompt-engineered GPT responses.
 
 **Key Features:**
-- Scrapes and preprocesses financial metrics (Sharpe, Sortino, Max Drawdown, etc.)
-- Uses LangChain with FAISS/Azure and OpenAI for natural language fund insights
-- Streamlit interface for risk-based fund exploration and comparisons
-
-**Technologies:**  
-Python, LangChain, OpenAI API, FAISS, Azure, Streamlit, BeautifulSoup, pandas
+- LangChain + Azure GPT-4 integration with vector-based retrieval (FAISS)
+- Ingests PDF prospectuses, JSON metadata, and scraped financial metrics
+- Custom Streamlit interface with Claude-style CSS and interaction design
+- Robust prompt engineering for accurate financial reasoning
+- Includes session memory, feedback logging, and analytics dashboard
 
 ---
 
-### 2. Cafe Order System (C)
-**Description:**  
-A command-line based order processing system that allows users to select menu items such as coffee, tea, or donuts, and view a final bill with totals.
+### Cafe Order System  
+**Technologies:** C
+
+A command-line based cafe ordering tool that allows users to browse a menu, build a cart, and check out with real-time totals.
 
 **Key Features:**
-- Menu-driven ordering
-- Real-time cart total updates
-- Input validation for user safety
-
-**Technologies:**  
-C, Standard Library (stdio.h)
+- Menu-driven UI with validation and control flow
+- Real-time updates to order total
+- Designed with modular functions for maintainability
 
 ---
 
-### 3. Maze Runner (C++)
-**Description:**  
-A program that solves a maze using recursion. It traverses a 2D array representing the maze and prints the path from start to finish.
+### Maze Runner  
+**Technologies:** C++, Recursion, Object-Oriented Programming
+
+A recursive solver that navigates and solves a maze using a backtracking algorithm.
 
 **Key Features:**
-- Recursive backtracking algorithm
-- Path tracing and visual output
-- Demonstrates logical problem-solving
-
-**Technologies:**  
-C++, Recursion, Object-Oriented Concepts
+- Traverses a maze represented by a 2D grid
+- Displays solution path from entry to exit
+- Emphasizes algorithmic problem-solving and clean recursive design
 
 ---
 
 ## Research Work
 
-### Lightning Strike Data Analysis (Python)
-**Description:**  
-A Python-based analysis pipeline for visualizing and analyzing real lightning strike data based on time, location, and intensity.
+### Lightning Strike Data Analysis  
+**Technologies:** Python, pandas, folium, matplotlib
+
+A data science pipeline for exploring and visualizing lightning activity using geospatial and temporal filters.
 
 **Key Features:**
-- Heatmaps of lightning intensity by geography
-- Graphs showing frequency and peak current
-- Temporal filtering of lightning activity
-
-**Technologies:**  
-Python, pandas, folium, matplotlib
+- Heatmaps showing strike intensity across geographies
+- Statistical summaries of peak current and strike frequency
+- Built-in temporal filtering and chart generation
 
 ---
 
 ## Contact
 
-Feel free to connect or collaborate:  
-**Email:** ksshah1283@eagle.fgcu.edu  
-**LinkedIn:** [linkedin.com/in/krish-shah](https://linkedin.com/in/krish-shah)
+I am open to collaboration, internships, or research opportunities in software engineering and AI development.
+
+- **Email:** [ksshah1283@eagle.fgcu.edu](mailto:ksshah1283@eagle.fgcu.edu)  
+- **LinkedIn:** [linkedin.com/in/krish-shah](https://linkedin.com/in/krish-shah)
+
+
