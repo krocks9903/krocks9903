@@ -138,22 +138,22 @@ An **AI-powered OCR tool** that extracts structured data from scanned images of 
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishshah&show_icons=true&theme=radical&count_private=true)
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krocks9903&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishshah&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krocks9903&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishshah&theme=radical)
-
----
-
-## 🏆 GitHub Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=krishshah&theme=radical&column=7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krocks9903&theme=radical)
 
 ---
 
-## 📈 Contribution Graph
+## GitHub Achievements
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=
+![Trophy](https://github-profile-trophy.vercel.app/?username=krocks9903&theme=radical&column=7)
+
+---
+
+## Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=krocks9903&theme=radical)
