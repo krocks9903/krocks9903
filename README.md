@@ -1,7 +1,7 @@
 # 👨‍💻 Krish Shah – Software Engineering Portfolio
 
-![Profile Views](https://komarev.com/ghpvc/?username=krish-sshah&color=blue&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/krish-shah)
+![Profile Views](https://komarev.com/ghpvc/?username=krishshah&color=blue&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/krish-sshah)
 [![Email](https://img.shields.io/badge/Email-ksshah1283@eagle.fgcu.edu-red?style=flat-square&logo=gmail)](mailto:ksshah1283@eagle.fgcu.edu)
 
 ## 🛡️ Skills & Technologies
