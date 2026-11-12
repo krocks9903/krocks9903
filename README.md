@@ -1,166 +1,147 @@
-# 👨‍💻 Krish Shah – Software Engineering Portfolio
-
-![Profile Views](https://komarev.com/ghpvc/?username=krocks9903&color=blue&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/krish-sshah)
-[![Email](https://img.shields.io/badge/Email-ksshah1283@eagle.fgcu.edu-red?style=flat-square&logo=gmail)](mailto:ksshah1283@eagle.fgcu.edu)
-
-## Skills & Technologies
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI/ML & Cloud Technologies
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Frameworks & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-## About Me
-
-I am **Krish Shah**, a Junior at **Florida Gulf Coast University (FGCU)** pursuing a **B.S. in Software Engineering** with a **minor in Mathematics**.
-
-I enjoy building **scalable systems**, working with **AI-driven applications**, and applying **mathematical problem-solving** to real-world challenges.
-
----
-
-## Technical Skills
-
-**Languages:** Python, C, C++, Java, JavaScript  
-**AI/ML:** LangChain, OpenAI (Azure), FAISS, Tesseract OCR  
-**Data & Visualization:** pandas, matplotlib, folium  
-**Web & Tools:** Streamlit, BeautifulSoup, dotenv  
-**Other:** Git, Linux, Algorithms, Systems Programming
-
----
-
-## Certifications & Licenses
-
-- **Oracle Cloud Infrastructure (OCI) Generative AI Certified Professional** (Completed)
-- **Oracle AI Certifications (3 tracks – In Progress):**
-  - OCI AI Foundations Associate (expected 2025)
-  - OCI AI Professional (expected 2025)
-  - OCI AI Architect (expected 2025)
-- **Microsoft Azure Fundamentals (AZ-900)** – Planned
-- **AWS Certified Cloud Practitioner** – Expected 2025
-- **LinkedIn Learning:** Generative AI Fundamentals
-- **Coursera:** Data Structures & Algorithms (C++)
-
----
-
-## Featured Projects
-
-### ORION: GenAI Fund Advisor Platform
-**Tech Stack:** Python, LangChain, Azure OpenAI, Streamlit, FAISS, BeautifulSoup, pandas, dotenv, FPDF
-
-- Retrieval-Augmented Generation (RAG) system for mutual fund analysis
-- Processes PDFs, JSON, and scraped data for GPT-driven insights
-- Custom Streamlit UI with session memory and analytics logging
-- Real-time fund performance analysis and recommendations
-
----
-
-### OCR-with-Tesseract-and-Python
-**Tech Stack:** Python, Pillow (PIL), pytesseract, Tesseract OCR, regex, matplotlib
-
-An AI-powered OCR tool that extracts structured data from scanned images of passports and driver's licenses.
-
-**Key Features:**
-- Extracts key fields: Full Name, Date of Birth, ID Number/DLN, Address, Expiry Date
-- Supports multiple image formats (PNG, JPG, TIFF)
-- Image preprocessing (grayscale, sharpening, binarization, resizing) for improved OCR accuracy
-- Field-specific cropping for better recognition performance
-- Outputs structured data in JSON/CSV formats
-- Easily extendable for new ID formats
-
-**Example Output:**
-```json
-{
-  "DLN": "7F62-4A3-G9-0W7-5",
-  "Name": "Jeremiah Cedar",
-  "Address": "3351 Bagwell Avenue, Bogsville, FL 34448",
-  "DOB": "03/03/1989",
-  "EXP": "03/03/2024"
-}
-```
-
----
-
-### Café Order System
-**Tech Stack:** C
-
-- Command-line café ordering tool with intuitive menu navigation
-- Real-time order totals and receipt generation
-- Modular design with robust input validation
-- Clean, maintainable C code structure
-
----
-
-### Maze Runner
-**Tech Stack:** C++, Recursion, OOP
-
-- Recursive backtracking algorithm to solve complex mazes
-- Visualized solution path with clean output
-- Object-Oriented Programming design principles
-- Efficient pathfinding with optimal solution guarantee
-
----
-
-## Research & Data Analysis
-
-### Lightning Strike Data Analysis
-**Tech Stack:** Python, pandas, folium, matplotlib
-
-- Built a comprehensive data pipeline for spatiotemporal lightning strike analysis
-- Interactive heatmaps with geographic visualization
-- Statistical summaries (peak current, frequency analysis)
-- Temporal filtering and dynamic chart generation
-- Real-world meteorological data processing
-
----
-
-## Education
-
-**Florida Gulf Coast University (FGCU)** – Fort Myers, FL  
-**B.S. in Software Engineering** (Minor: Mathematics)  
-**Junior | Expected Graduation: 2026**
-
----
-
-## 📊 GitHub Statistics
-
+[Krish_Shah_GitHub_README.md](https://github.com/user-attachments/files/34769919/Krish_Shah_GitHub_README.md)
 <div align="center">
 
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krocks9903&show_icons=true&theme=radical&count_private=true&hide_border=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Krish%20Shah&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Krish Shah banner" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krocks9903&layout=compact&theme=radical&hide_border=true)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+solve+real+problems;Agentic+AI+%7C+RAG+%7C+Computer+Vision;From+research+prototypes+to+real-world+apps" alt="Animated introduction" /></a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krocks9903&theme=radical&hide_border=true)
-
-### GitHub Activity
-
-[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krocks9903&theme=react-dark&hide_border=true)](https://github.com/krocks9903)
-
-### Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=krocks9903&theme=radical&column=4&margin-w=15&margin-h=15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-sshah)
+[![GitHub](https://img.shields.io/badge/GitHub-krocks9903-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krocks9903)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksshah1283@eagle.fgcu.edu)
+![Profile views](https://komarev.com/ghpvc/?username=krocks9903&style=for-the-badge&color=0891b2)
 
 </div>
 
----
+## 👋 About Me
 
-## Contact
+I'm **Krish**, a **Software Engineering student at Florida Gulf Coast University**, minoring in **Mathematics**. I build AI-powered applications that turn complex data into useful, trustworthy experiences—from financial research assistants and multi-agent document analysis to civic-tech platforms and computer vision for autonomous systems.
 
-**Email:** ksshah1283@eagle.fgcu.edu  
-**LinkedIn:** [linkedin.com/in/krish-sshah](https://linkedin.com/in/krish-sshah)  
-**GitHub:** [github.com/krocks9903](https://github.com/krocks9903)
+- 💼 **Previously:** Software Engineering Intern at **Infosys**, developing **ORION**, a retrieval-augmented financial research platform.
+- 🌴 **Community impact:** AI Summer Intern with **Engage Estero**, building tools to explore local government records, projects, and maps.
+- 🚀 **Currently exploring:** Rocket landing-zone detection with computer vision as part of an FGCU senior project.
+- 🧠 **Interested in:** Agentic AI, applied machine learning, distributed systems, computer vision, and human-centered software.
+- 🎓 **Education:** B.S. Software Engineering · Minor in Mathematics · FGCU.
+
+## 🛠️ My Toolbox
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI, machine learning & data**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square) ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=flat-square) ![YOLO](https://img.shields.io/badge/YOLO-7C3AED?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Full stack, cloud & geospatial**
+
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-5D8C3E?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-334155?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ [Estero Civic AI Platform](https://github.com/krocks9903/where-estero-decides)
+**AI · RAG · Maps · Civic Tech**
+
+A community-focused platform to help residents discover information buried in local government meeting records and explore location-based civic data.
+
+`Python` `FastAPI` `LangChain` `Supabase` `PostGIS` `ArcGIS` `React`
+
+[Explore prototype](https://krocks9903.github.io/where-estero-decides/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ [Rocket Payload — Landing Zone Analysis](https://github.com/krocks9903/Rocket_Payload)
+**Computer Vision · Terrain Analysis**
+
+Processes downward-looking rocket footage to segment terrain, identify hazards, calculate landing risk, and rank the **three safest candidate landing spots**. The current pipeline combines image-processing rules with a pretrained YOLOE detector.
+
+`Python` `Ultralytics` `scikit-image` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [ORION — GenAI Fund Advisor](https://github.com/krocks9903/-GenAi-fund-advisor-Summer-Internship-2025)
+**Infosys Internship · Financial AI**
+
+A RAG-based research assistant combining fund documents and financial data to support evidence-grounded mutual fund analysis and interactive exploration.
+
+`Python` `LangChain` `Azure OpenAI` `FAISS` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 📑 [FinePrint Agent](https://github.com/krocks9903/FIne_Print_Agent)
+**Multi-Agent AI · Document Intelligence**
+
+A two-agent **Extractor → Ranker** workflow that surfaces potentially costly clauses in uploaded PDFs, with source quotes, page references, and citation validation.
+
+`TypeScript` `AI Agents` `PDF Parsing` `MCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💚 [Volunteer Management Platform](https://github.com/krocks9903/ServiceLearningProject)
+**Harry Chapin Food Bank · Full-Stack Engineering**
+
+A volunteer experience for registration, shift scheduling, check-in/out, tracking service hours, and administrative reporting.
+
+`React` `TypeScript` `Supabase` `MUI` `Playwright`
+
+[View app](https://service-learning-project-lyart.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [AI & Automation Experiments](https://github.com/krocks9903?tab=repositories)
+**Prototypes · Agents · Applied Research**
+
+Exploring agent orchestration, document understanding, workflow automation, OCR, and data-driven tools. Previous work also includes lightning-strike analysis and algorithmic problem solving.
+
+`Python` `n8n` `OCR` `Data Visualization`
+
+</td>
+</tr>
+</table>
+
+## 💼 Experience & Research
+
+| Role / Project | What I worked on |
+| --- | --- |
+| **AI Summer Intern · Engage Estero** | AI-assisted exploration of public meeting records, citation-backed answers, geospatial data, and accessible civic interfaces. |
+| **Software Engineering Intern · Infosys** | Developed the ORION financial GenAI assistant using RAG, document ingestion, search, and a Streamlit interface. |
+| **Senior Project · FGCU Rocket Club** | Computer-vision research for identifying and scoring potential landing zones in rocket-camera footage. |
+| **Autonomous Agricultural Tractor Research** | Explored LiDAR-based crop-row navigation, ROS, sensor fusion, and localization during simulated GNSS outages. |
+| **Volunteer Platform · Harry Chapin Food Bank** | Collaborated on a full-stack scheduling and volunteer-hour tracking application. |
+
+## 🏅 Certifications
+
+- **Oracle Cloud Infrastructure Generative AI Certified Professional**
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krocks9903&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krocks9903&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krocks9903&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="98%" />
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm especially excited about opportunities at the intersection of **AI engineering, software development, research, and real-world impact**.
+
+**[LinkedIn](https://linkedin.com/in/krish-sshah)** · **[GitHub](https://github.com/krocks9903)** · **[Email](mailto:ksshah1283@eagle.fgcu.edu)**
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:06b6d4,50:2563eb,100:0f172a" width="100%" alt="Footer decoration" />
+</div>
