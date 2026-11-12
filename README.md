@@ -1,4 +1,4 @@
-[Krish_Shah_GitHub_README.md](https://github.com/user-attachments/files/34769919/Krish_Shah_GitHub_README.md)
+[Krish_Shah_GitHub_README_Fixed.md](https://github.com/user-attachments/files/34770031/Krish_Shah_GitHub_README_Fixed.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Krish%20Shah&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Krish Shah banner" />
@@ -129,12 +129,15 @@ Exploring agent orchestration, document understanding, workflow automation, OCR,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krocks9903&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krocks9903&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+**Explore my work directly on GitHub**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krocks9903&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="98%" />
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krocks9903?tab=repositories)
+[![Contributions](https://img.shields.io/badge/View-Contribution_Activity-0891B2?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/krocks9903)
+[![Projects](https://img.shields.io/badge/Featured-AI_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krocks9903?tab=repositories&q=&type=&language=&sort=updated)
 
 </div>
+
+> GitHub's profile contribution calendar shows my latest public activity. I use direct GitHub links here instead of third-party stats images, which can fail during hosting outages or rate limits.
 
 ## 🤝 Let's Connect
 
