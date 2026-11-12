@@ -92,7 +92,7 @@ Two connected pieces. [Where Estero Decides](https://github.com/krocks9903/where
 ### [Volunteer Management Platform](https://github.com/krocks9903/ServiceLearningProject)
 <sub>HARRY CHAPIN FOOD BANK · FULL-STACK · TEAM PROJECT</sub>
 
-Volunteers sign up, register for events and shifts, and check in at a kiosk. Staff manage shifts, approve hours and export reports. Covered by unit, integration and Playwright end-to-end tests.
+Volunteers sign up, register for events and shifts, and check in at a kiosk. Staff manage shifts, approve hours and export reports. 105 Vitest unit tests, with integration and Playwright suites alongside.
 
 **Status:** course project, last updated December 2025. [Deployed build](https://service-learning-project-lyart.vercel.app)
 
